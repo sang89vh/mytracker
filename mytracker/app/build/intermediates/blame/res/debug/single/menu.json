@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/src/main/res/menu/main.xml"
+    }
+]

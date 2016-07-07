@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/basic_placemark.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/basic_placemark.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/draw_order_ground_overlay.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/poly_style_boolean_numeric.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/multiple_placemarks.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/multiple_placemarks.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/ballon_gx_prefix.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/basic_folder.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/basic_folder.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/extended_data.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/extended_data.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/nested_multigeometry.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/nested_multigeometry.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/ground_overlay.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/unknwown_folder.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/unknwown_folder.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/ground_overlay_color.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ground_overlay_color.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/nested_folders.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/nested_folders.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/document_nest.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/document_nest.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/poly_style_boolean_alpha.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/cdata.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/cdata.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/unsupported.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/unsupported.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/default_balloon.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/default_balloon.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/visibility_ground_overlay.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/multigeometry_placemarks.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/res/merged/debug/raw/inline_style.kml",
+        "source": "/Users/jack/Documents/1_MMO/MyTracker/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/inline_style.kml"
+    }
+]
